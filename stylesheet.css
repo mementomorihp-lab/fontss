@@ -1,16 +1,16 @@
 @font-face {
-    font-family: 'Halloween';
-    src: url('Halloween.woff2') format('woff2'),
-        url('Halloween.woff') format('woff');
+    font-family: 'Freaky Story DEMO';
+    src: url('FreakyStoryDEMO.woff2') format('woff2'),
+        url('FreakyStoryDEMO.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Hallowen Inline';
-    src: url('HallowenInline.woff2') format('woff2'),
-        url('HallowenInline.woff') format('woff');
+    font-family: 'Alit Halloween';
+    src: url('AlitHalloween-Regular.woff2') format('woff2'),
+        url('AlitHalloween-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
